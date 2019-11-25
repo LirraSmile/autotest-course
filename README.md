@@ -1,2 +1,2 @@
 # autotest-course
-Course on the Stepik platform. Aotutest, Selenium, Python
+Course on the Stepik platform. Autotest, Selenium, Python
